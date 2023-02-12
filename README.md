@@ -1,5 +1,5 @@
 
-[![](assets/images/banner.png)](https://github.com/auryan/TCC-SENAI-2023)
+[![](assets/images/banner.png)](https://github.com/auryan/Exercicios-Python-Brasil)
 
 <div align="center">
 	<a target="_blank" href="http://commitizen.github.io/cz-cli/">
