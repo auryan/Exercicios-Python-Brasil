@@ -29,5 +29,5 @@ O `Commitizen` irá abrir uma interface para que você possa escrever o commit. 
 
 ---
 
-> "*É mais provável que a explicação que exige o menor número possível de suposições esteja correta.*"  
-> — [**William of Ockham**](https://pt.wikipedia.org/wiki/Navalha_de_Ockham).
+> "*O conhecimento começa com a dúvida.*"  
+> — [**René Descartes**](https://pt.wikipedia.org/wiki/René_Descartes).
