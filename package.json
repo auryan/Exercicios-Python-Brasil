@@ -1,0 +1,29 @@
+{
+	"name": "exercicios-python-brasil",
+	"version": "1.0.0",
+	"description": "",
+	"main": "",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"config": {
+		"commitizen": {
+			"path": "node_modules/cz-git",
+			"czConfig": "./config/cz.config.js"
+		}
+	},
+	"devDependencies": {
+		"commitizen": "^4.3.0",
+		"cz-git": "^1.4.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/auryan/Exercicios-Python-Brasil.git"
+	},
+	"bugs": {
+		"url": "https://github.com/auryan/Exercicios-Python-Brasil/issues"
+	},
+	"homepage": "https://github.com/auryan/Exercicios-Python-Brasil#readme",
+	"author": "Cleyan Sampaio dos Santos",
+	"license": "MIT"
+}
