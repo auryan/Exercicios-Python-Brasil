@@ -10,13 +10,13 @@
 
 ## :speech_balloon: Padrão de Commits
 
-Para padronizar as mensagens de commits, utiliza-se o **Commitizen** com o adaptador **cz-git**.
+Este repositório padroniza as mensagens de commits com o **Commitizen** e o adaptador **cz-git**.
 
 > [**Commitizen**](https://github.com/commitizen/cz-cli) é uma ferramenta de linha de comando baseada no Node.js que auxilia na geração de mensagens de commit padronizadas.
 >> [**Cz-git**](https://github.com/Zhengqbbb/cz-git) é um adaptador que substitui o plugin interativo do Commitizen.
 
 ### Antes de qualquer coisa…
-É importante que você tenha o [**Node.js**](https://nodejs.org/en/download/) em sua máquina e instale todas as dependências de desenvolvimento do projeto (o que pode ser feito executando o comando `npm install`).
+Caso queira contribuir, é importante que você tenha o [**Node.js**](https://nodejs.org/en/download/) em sua máquina e instale todas as dependências de desenvolvimento do projeto (o que pode ser feito executando o comando `npm install`).
 
 ### Quando for realizar um commit, execute o seguinte comando:
 ```bash
